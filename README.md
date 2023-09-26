@@ -5,7 +5,7 @@ This is our organizational repo for the Datathon of Wikidata Days 2023. It conta
 ## Projects to work on:
 
 ### Wiki Loves Living Heritage
-Upload data about Portugal's National Living Heritage List ([Inventário Nacional do Património Cultural Imaterial](http://www.matrizpci.dgpc.pt/MatrizPCI.Web/pt-PT/InventarioNacional/Index)) // [![Wikidata logo](!https://img.shields.io/badge/Wikidata-006699.svg?style=for-the-badge&logo=Wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q108000091)
+Upload data about Portugal's National Living Heritage List ([Inventário Nacional do Património Cultural Imaterial](http://www.matrizpci.dgpc.pt/MatrizPCI.Web/pt-PT/InventarioNacional/Index)) // [![Wikidata logo](https://img.shields.io/badge/Wikidata-006699.svg?style=for-the-badge&logo=Wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q108000091)
 
 __Tasks:__
 - scrape the data from the webpage
