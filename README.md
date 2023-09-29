@@ -1,20 +1,11 @@
 # Datathon Wikidata Days 2023
 
-This is our organizational repo for the Datathon of Wikidata Days 2023. It contains a couple of projects to work on and reference documentation about Wikidata and some related tools.
+This is our organizational repo for the Datathon of Wikidata Days 2023. It contains a few projects to work on and reference documentation about Wikidata and some related tools.
 
-## Projects to work on:
-
-### Wiki Loves Living Heritage
-Upload data about Portugal's National Living Heritage List ([Inventário Nacional do Património Cultural Imaterial](http://www.matrizpci.dgpc.pt/MatrizPCI.Web/pt-PT/InventarioNacional/Index)) // [Q108000091](https://www.wikidata.org/wiki/Q108000091)
-
-__Tasks:__
-- scrape the data from the webpage
-- tidy up the data
-- model it according to Wikidata
-- Uploaaaaaad!
-
-### Wiki Loves Música Portuguesa
-Upload data about RTP's Festival da Canção from the last years.
+## Challenges to work on:
+- [Gathering data about Festival da Canção](https://github.com/wikimedia-portugal/datathon-wdd-2023/issues/2) - technical level required: low
+- [Put Portugal on the map of Wiki Loves Living Heritage](https://github.com/wikimedia-portugal/datathon-wdd-2023/issues/3) - technical level required: moderate to high
+- [Data modelling of MARCMUS](https://github.com/wikimedia-portugal/datathon-wdd-2023/issues/1) - technical level required: low; knowledge management required: high
 
 ## Documentation, tools and guides
 - [Wikidata REST API](https://www.wikidata.org/wiki/Wikidata:REST_API) - permite aceder a conteúdo Wikidata, via pedidos URL específicos
