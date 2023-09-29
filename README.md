@@ -1,3 +1,5 @@
+![Wdd_logo svg](https://github.com/wikimedia-portugal/datathon-wdd-2023/assets/30577653/31e683a8-c95e-4319-9d44-3f162ca29bd5)
+
 # Datathon Wikidata Days 2023
 
 This is our organizational repo for the Datathon of Wikidata Days 2023. It contains a few projects to work on and reference documentation about Wikidata and some related tools.
